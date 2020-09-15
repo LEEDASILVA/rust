@@ -21,4 +21,3 @@ fn main(){
     }
     // we can use the `.enumerate()` and use (index, value)
 }
-

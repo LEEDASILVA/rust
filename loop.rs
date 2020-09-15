@@ -51,8 +51,8 @@ fn foring() {
 
     // vec! is a vector (array)
     let animals = vec!["dog", "cat", "parrot"];
-    
-    // the function iter() -> iterator: this is for vectors this will prevent the ownership of the values 
+
+    // the function iter() -> iterator: this is for vectors this will prevent the ownership of the values
     // inside the vector to be moved to the for loop
     // example if you dont use iter() then it will not be possible to use
     // the vector in other places

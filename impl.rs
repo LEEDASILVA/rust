@@ -2,7 +2,7 @@
 // add methods to a struct!
 
 struct Rectangle {
-    width: u32.
+    width: u32,
     height: u32
 }
 
